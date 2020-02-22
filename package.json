@@ -2,7 +2,7 @@
   "name": "lib-loopy",
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:robrohan/lib-loopy.git"
+    "url": "git@github.com:robrohan/lib-loopy.git"
   },
   "main": "dist/main.js",
   "author": "Rob Rohan",
